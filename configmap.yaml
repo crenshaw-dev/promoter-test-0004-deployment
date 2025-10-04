@@ -22,7 +22,7 @@ data:
   # - REPO_OWNER: crenshaw-dev
   # - CONFIG_REPO: promoter-test-0004
   # - DEPLOYMENT_REPO: promoter-test-0004-deployment
-  # - TIMESTAMP: 2025-10-04-17-15-09
+  # - TIMESTAMP: 2025-10-04-17-16-55
   # - DESTINATION_CLUSTER_URL: https://kubernetes.default.svc
   # - ARGOCD_NAMESPACE: argocd
 
