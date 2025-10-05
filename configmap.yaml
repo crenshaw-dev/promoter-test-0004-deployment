@@ -11,18 +11,17 @@ data:
   asset.name: "promoter-test-0004"
   github.org: "crenshaw-dev"
   github.url: "https://github.com"
-  
-  # Environment will be set by Argo CD based on the target branch
-  # Available template variables:
-  # - ASSET_ID: 0004
-  # - ASSET_NAME: promoter-test-0004
-  # - GITHUB_ORG: crenshaw-dev
-  # - GITHUB_URL: https://github.com
-  # - GITHUB_DOMAIN: github.com
-  # - REPO_OWNER: crenshaw-dev
-  # - CONFIG_REPO: promoter-test-0004
-  # - DEPLOYMENT_REPO: promoter-test-0004-deployment
-  # - TIMESTAMP: 2025-10-04-19-52-02
-  # - DESTINATION_CLUSTER_URL: https://kubernetes.default.svc
-  # - ARGOCD_NAMESPACE: argocd
-
+  timestamp: "2025-10-05T00:04:20Z"
+# Environment will be set by Argo CD based on the target branch
+# Available template variables:
+# - ASSET_ID: 0004
+# - ASSET_NAME: promoter-test-0004
+# - GITHUB_ORG: crenshaw-dev
+# - GITHUB_URL: https://github.com
+# - GITHUB_DOMAIN: github.com
+# - REPO_OWNER: crenshaw-dev
+# - CONFIG_REPO: promoter-test-0004
+# - DEPLOYMENT_REPO: promoter-test-0004-deployment
+# - TIMESTAMP: 2025-10-04-19-52-02
+# - DESTINATION_CLUSTER_URL: https://kubernetes.default.svc
+# - ARGOCD_NAMESPACE: argocd
