@@ -22,7 +22,7 @@ data:
   # - REPO_OWNER: crenshaw-dev
   # - CONFIG_REPO: promoter-test-0004
   # - DEPLOYMENT_REPO: promoter-test-0004-deployment
-  # - TIMESTAMP: 2025-10-16-13-26-43
+  # - TIMESTAMP: 2025-10-16-13-32-36
   # - DESTINATION_CLUSTER_URL: https://127.0.0.1:64080
   # - ARGOCD_NAMESPACE: argocd
 
